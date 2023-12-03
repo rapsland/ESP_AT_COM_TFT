@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ESP32_AT_Deye2",
+			"path": "../../ESP32_AT_Deye2"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"tft_espi.h": "c"
+		}
+	}
+}
